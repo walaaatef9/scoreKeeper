@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="zero">0</string>
+    <string name="m">Marines</string>
+    <string name="t">TRAVERS</string>
+    <string name="r">RESET</string>
+    <string name="z">0</string>
+    <string name="R">Add Point For Runs</string>
+    <string name="O">Add Point For Outs</string>
+    <string name="a">addPointForRunsOfTeamMarines</string>
+
+
+
+
+</resources>

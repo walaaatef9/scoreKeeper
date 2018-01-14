@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="zero">0dp</dimen>
+    <dimen name="one">1</dimen>
+    <dimen name="oned">1dp</dimen>
+    <dimen name="pad">16dp</dimen>
+    <dimen name="scale">14sp</dimen>
+    <dimen name="scaleB">36sp</dimen>
+    <dimen name="scaleR">32dp</dimen>
+
+
+
+
+</resources>
